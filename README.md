@@ -1,6 +1,8 @@
 <h1 align="center"> E Commerce Website </h1>
 <h2 align="center"> <i>E-Commerce Website </i> designed during the event of Web Design conducted at Rajalakshmi Engineering College with the help of team mates. </h2>
-<h3> Participents all over the colleges around chennai, <b>our team - Won 2nd Place</b> </h3>
+<h3 align="center"> Participants all over the colleges around chennai, <b>our team - Won 2nd Place</b> </h3>
+
+<p align="center"><b>Desktop Size aligned</b><a href="https://prittoruban.github.io/E-Commerce_Website/" > E-Commerce Site</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
