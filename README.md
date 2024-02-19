@@ -1,5 +1,6 @@
 # E Commerce Website
 ## *E-Commerce Website designed during the event of Web Design conducted at Rajalakshmi Engineering College with the help of team mates.*
+### Participents all over the colleges around chennai, **our team - Won 2nd Place**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
